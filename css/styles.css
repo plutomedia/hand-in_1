@@ -1,0 +1,46 @@
+
+body {	Formatering for innholdet fra bootstrap
+
+}
+
+/*
+h1 {		Fast formatering for Hovedoverskriften fra bootstrap
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 7em;
+    font-weight: normal;
+    font-style: italic;
+    margin: 1em 100 .4em;
+	color: #000;
+	opacity: 0.3;
+}*/
+
+
+
+#searchbox {
+	position: relative;
+	top: -70px;
+	/*left: 00px;*/
+	color: #111;
+	opacity: 0.4;
+}
+
+#overskrift {/**/
+
+	position: relative;
+	top: 185px;
+	right: -100px;
+	color: #999;
+	opacity: 0.8;
+}
+.bgimage {
+	background-image: url("../images/esp0.jpg");
+	background-position: center center;
+	background-size: cover;
+	height: 330px;
+}
+
+
+
+#GalleriDel {
+
+}
